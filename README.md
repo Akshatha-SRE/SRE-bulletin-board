@@ -35,3 +35,4 @@ If you would like to use a backend written in Go, [thewhitetulip](http://github.
  
 Webhhook test
 Webhook agent test
+Jenkinsfile-only pipeline test
